@@ -1,0 +1,47 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue May  1 00:01:44 2018
+     Path: "C:\Users\thinkpad\Desktop\655\Datan-project4\Datan-project2\CheckOut"
+     Args: CheckOut.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      32
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                CheckOut.h   namespace                            NoSqlDb      39     111      31
+                CheckOut.h       class                           CheckOut      41      40      30
+                CheckOut.h    function                           CheckOut      42       2       1
+                CheckOut.h    function                           CheckOut      43       2       1
+                CheckOut.h    function                                 db      47       2       1
+                CheckOut.h    function                                 db      48       2       1
+                CheckOut.h    function                                 db      49       2       1
+                CheckOut.h    function                           filename      51       2       1
+                CheckOut.h    function                           filename      52       2       1
+                CheckOut.h    function                           filename      53       2       1
+                CheckOut.h    function                           specpath      55       2       1
+                CheckOut.h    function                           specpath      56       2       1
+                CheckOut.h    function                           specpath      57       2       1
+                CheckOut.h    function                          storepath      59       2       1
+                CheckOut.h    function                          storepath      60       2       1
+                CheckOut.h    function                          storepath      61       2       1
+                CheckOut.h    function                          versionum      63       2       1
+                CheckOut.h    function                          versionum      64       2       1
+                CheckOut.h    function                          versionum      65       2       1
+                CheckOut.h    function                             filecp      86      24       5
+                CheckOut.h    function                           checkout     114      34       7
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files

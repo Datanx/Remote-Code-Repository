@@ -1,0 +1,10 @@
+﻿  DateTime.cpp
+  DbCore.cpp
+  Edit.cpp
+  Persist.cpp
+  Query.cpp
+  StringUtilities.cpp
+  Executive.cpp
+  正在生成代码...
+Edit.obj : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  Executive.vcxproj -> C:\Users\thinkpad\Desktop\Datan-project4\Debug\Executive.lib

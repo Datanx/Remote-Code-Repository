@@ -1,0 +1,5 @@
+﻿  Translater.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Translater.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+  Translater.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  Translater.vcxproj -> C:\Users\thinkpad\Desktop\Datan-project4\Debug\Translater.dll

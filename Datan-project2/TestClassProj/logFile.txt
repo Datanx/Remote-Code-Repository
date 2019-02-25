@@ -1,0 +1,35 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Mon Mar 12 23:45:56 2018
+     Path: "C:\Users\thinkpad\Desktop\Courses\CSE687\Proj 2\Datan-project2\TestClassProj"
+     Args: TestClass.cpp, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      10
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             TestClass.cpp    function                                  ]      24       2       1
+             TestClass.cpp    function                             testR1      33       7       1
+             TestClass.cpp    function                             testR2      45       6       1
+             TestClass.cpp    function                            testR3a      56      35       1
+             TestClass.cpp    function                            testR3b      97      32       1
+             TestClass.cpp    function                            testR3c     134      37       1
+             TestClass.cpp    function                             testR4     177      45       1
+             TestClass.cpp    function                             testR5     227      12       1
+             TestClass.cpp    function                               main     243      17       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     4 dirs
+   processed     1 files

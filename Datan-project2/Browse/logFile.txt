@@ -1,0 +1,44 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue May  1 00:02:06 2018
+     Path: "C:\Users\thinkpad\Desktop\655\Datan-project4\Datan-project2\Browse"
+     Args: Browse.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      21
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Browse.h   namespace                            NoSqlDb      35      76      20
+                  Browse.h       class                             Browse      37      34      19
+                  Browse.h    function                             Browse      38       2       1
+                  Browse.h    function                             Browse      39       2       1
+                  Browse.h    function                                 db      43       2       1
+                  Browse.h    function                                 db      44       2       1
+                  Browse.h    function                                 db      45       2       1
+                  Browse.h    function                           filename      47       2       1
+                  Browse.h    function                           filename      48       2       1
+                  Browse.h    function                           filename      49       2       1
+                  Browse.h    function                          storepath      51       2       1
+                  Browse.h    function                          storepath      52       2       1
+                  Browse.h    function                          storepath      53       2       1
+                  Browse.h    function                          versionum      55       2       1
+                  Browse.h    function                          versionum      56       2       1
+                  Browse.h    function                          versionum      57       2       1
+                  Browse.h    function                             browse      75      34       4
+                  Browse.h    function                                  ]      92       1       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files

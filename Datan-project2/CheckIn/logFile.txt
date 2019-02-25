@@ -1,0 +1,47 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue May  1 00:01:24 2018
+     Path: "C:\Users\thinkpad\Desktop\655\Datan-project4\Datan-project2\CheckIn"
+     Args: CheckIn.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      35
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 CheckIn.h   namespace                            NoSqlDb      41     164      34
+                 CheckIn.h       class                            CheckIn      42      38      33
+                 CheckIn.h    function                            CheckIn      43       2       1
+                 CheckIn.h    function                            CheckIn      44       2       1
+                 CheckIn.h    function                                 db      48       2       1
+                 CheckIn.h    function                                 db      49       2       1
+                 CheckIn.h    function                                 db      50       2       1
+                 CheckIn.h    function                               elem      52       2       1
+                 CheckIn.h    function                               elem      53       2       1
+                 CheckIn.h    function                               elem      54       2       1
+                 CheckIn.h    function                           filename      56       2       1
+                 CheckIn.h    function                           filename      57       2       1
+                 CheckIn.h    function                           filename      58       2       1
+                 CheckIn.h    function                          storepath      60       2       1
+                 CheckIn.h    function                          storepath      61       2       1
+                 CheckIn.h    function                          storepath      62       2       1
+                 CheckIn.h    function                         depsclosed      83      21       4
+                 CheckIn.h    function                             filecp     108      24       5
+                 CheckIn.h    function                             update     136       7       1
+                 CheckIn.h    function                            checkin     147      56       8
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 CheckIn.h    function                            checkin     147      56       8
+
+
+
+    searched     3 dirs
+   processed     1 files

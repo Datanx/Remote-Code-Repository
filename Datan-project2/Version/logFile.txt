@@ -1,0 +1,39 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Mon Mar 12 23:45:31 2018
+     Path: "C:\Users\thinkpad\Desktop\Courses\CSE687\Proj 2\Datan-project2\Version"
+     Args: Version.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      14
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Version.h   namespace                            NoSqlDb      31      37      13
+                 Version.h       class                            Version      32      27      12
+                 Version.h    function                            Version      33       2       1
+                 Version.h    function                            Version      34       2       1
+                 Version.h    function                                 db      38       2       1
+                 Version.h    function                                 db      39       2       1
+                 Version.h    function                                 db      40       2       1
+                 Version.h    function                           filename      42       2       1
+                 Version.h    function                           filename      43       2       1
+                 Version.h    function                           filename      44       2       1
+                 Version.h    function                            versnum      46       2       1
+                 Version.h    function                            versnum      47       2       1
+                 Version.h    function                            version      62       4       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files

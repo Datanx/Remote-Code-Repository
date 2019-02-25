@@ -1,0 +1,109 @@
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\bin\x86\Debug\Translater.dll
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\bin\x86\Debug\Translater.pdb
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\App.g.cs
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\CodePopUpWindow.baml
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\MainWindow.baml
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\Datan-project3\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\bin\x86\Debug\Translater.dll
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\bin\x86\Debug\Translater.pdb
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\App.g.cs
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.baml
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\MainWindow.baml
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\bin\x86\Debug\Translater.dll
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\bin\x86\Debug\Translater.pdb
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\App.g.cs
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.baml
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\MainWindow.baml
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\Courses\CSE687\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\App.g.cs
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\bin\x86\Debug\Translater.dll
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\bin\x86\Debug\Translater.pdb
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.baml
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\MainWindow.baml
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\AboutControl.g.cs
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thinkpad\Desktop\test\Datan-project4\GUI\obj\x86\Debug\AboutControl.baml
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe.config
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\bin\x86\Debug\WpfApp1.exe
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\bin\x86\Debug\WpfApp1.pdb
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\bin\x86\Debug\Translater.dll
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\bin\x86\Debug\Translater.pdb
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\GUI.csprojAssemblyReference.cache
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\AboutControl.g.cs
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.g.cs
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\MainWindow.g.cs
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\App.g.cs
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\AboutControl.baml
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\CodePopUpWindow.baml
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\MainWindow.baml
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\WpfApp1.g.resources
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\WpfApp1.exe
+C:\Course\CSE687\Proj 4\Datan-project4\GUI\obj\x86\Debug\WpfApp1.pdb
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\AboutControl.g.cs
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\thinkpad\Desktop\Datan-project4\GUI\obj\x86\Debug\AboutControl.baml

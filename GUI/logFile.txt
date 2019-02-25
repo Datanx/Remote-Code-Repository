@@ -1,0 +1,79 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Apr 10 17:54:07 2018
+     Path: "C:\Users\thinkpad\Desktop\Project3HelpWPF\GUI"
+     Args: MainWindow.xaml.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      89
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                            WpfApp1      50     599      88
+        MainWindow.xaml.cs       class                         MainWindow      52     597      87
+        MainWindow.xaml.cs    function                         MainWindow      54       3       1
+        MainWindow.xaml.cs    function                           showFile      69       8       1
+        MainWindow.xaml.cs    function                    processMessages      81      20       3
+        MainWindow.xaml.cs    function                            process     105      15       2
+        MainWindow.xaml.cs    function                        clearStatus     124       3       1
+        MainWindow.xaml.cs    function                          addStatus     131       3       1
+        MainWindow.xaml.cs    function                          clearDirs     138       3       1
+        MainWindow.xaml.cs    function                             addDir     144       3       1
+        MainWindow.xaml.cs    function                       insertParent     150       3       1
+        MainWindow.xaml.cs    function                         clearFiles     156       3       1
+        MainWindow.xaml.cs    function                            addFile     162       3       1
+        MainWindow.xaml.cs    function                      addClientProc     168       3       1
+        MainWindow.xaml.cs    function              DispatcherLoadGetDirs     174      29      10
+        MainWindow.xaml.cs    function                             Invoke     180       1       1
+        MainWindow.xaml.cs    function                             Invoke     191       1       1
+        MainWindow.xaml.cs    function                             Invoke     198       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadGetFiles     206      24       8
+        MainWindow.xaml.cs    function                             Invoke     212       1       1
+        MainWindow.xaml.cs    function                             Invoke     223       1       1
+        MainWindow.xaml.cs    function            DispatcherLoadreCheckIn     234      17       4
+        MainWindow.xaml.cs    function                             Invoke     246       1       1
+        MainWindow.xaml.cs    function           DispatcherLoadreCheckOut     255      16       4
+        MainWindow.xaml.cs    function                             Invoke     266       1       1
+        MainWindow.xaml.cs    function             DispatcherLoadreBrowse     275      17       4
+        MainWindow.xaml.cs    function                             Invoke     287       1       1
+        MainWindow.xaml.cs    function           DispatcherLoadreMetedata     296      17       4
+        MainWindow.xaml.cs    function                             Invoke     308       1       1
+        MainWindow.xaml.cs    function                     loadDispatcher     317       9       1
+        MainWindow.xaml.cs    function                      Window_Loaded     329      29       3
+        MainWindow.xaml.cs    function                     removeFirstDir     361       6       1
+        MainWindow.xaml.cs    function         FileList2_MouseDoubleClick     370       3       1
+        MainWindow.xaml.cs    function          DirList2_MouseDoubleClick     377      35       3
+        MainWindow.xaml.cs    function                      Connect_Click     416      26       1
+        MainWindow.xaml.cs    function                   Disconnect_Click     446       7       2
+        MainWindow.xaml.cs    function                      CheckIn_Click     457      18       1
+        MainWindow.xaml.cs    function                     CheckOut_Click     479      17       1
+        MainWindow.xaml.cs    function                     Refresh1_Click     500      15       3
+        MainWindow.xaml.cs    function                     Refresh2_Click     519      17       1
+        MainWindow.xaml.cs    function                       Browse_Click     540      27       3
+        MainWindow.xaml.cs    function                             Invoke     564       1       1
+        MainWindow.xaml.cs    function                     Metadata_Click     571      16       1
+        MainWindow.xaml.cs    function                              test1     591      10       3
+        MainWindow.xaml.cs    function                             Invoke     598       1       1
+        MainWindow.xaml.cs    function                              test2     604       8       3
+        MainWindow.xaml.cs    function                             Invoke     609       1       1
+        MainWindow.xaml.cs    function                              test3     615       8       3
+        MainWindow.xaml.cs    function                             Invoke     620       1       1
+        MainWindow.xaml.cs    function                              test4     626      10       3
+        MainWindow.xaml.cs    function                             Invoke     632       1       1
+        MainWindow.xaml.cs    function                              test5     639       8       3
+        MainWindow.xaml.cs    function                             Invoke     644       1       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched    23 dirs
+   processed     1 files
