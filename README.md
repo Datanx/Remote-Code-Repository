@@ -45,3 +45,4 @@
    - Double-Clicking on a file in remote navigator will select the file as the one to be viewed. Then clicking on View Metedata button to view the metedata of the file.
 
 ## 4. There is also a status bar to show responses from server.
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
